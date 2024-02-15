@@ -1,0 +1,4 @@
+../Core/Src/devices/GPIO.c:24:6:GPIO_Init	1
+../Core/Src/devices/GPIO.c:61:6:HAL_GPIO_EXTI_Callback	5
+../Core/Src/devices/GPIO.c:75:6:EXTI15_10_IRQHandler	2
+../Core/Src/devices/GPIO.c:82:6:EXTI9_5_IRQHandler	2

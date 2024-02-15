@@ -1,0 +1,9 @@
+../Core/Src/midi/tone.c:41:10:hertz_to_duration	2
+../Core/Src/midi/tone.c:50:10:get_counter	1
+../Core/Src/midi/tone.c:54:6:reset_counter	1
+../Core/Src/midi/tone.c:59:9:add_tone	1
+../Core/Src/midi/tone.c:65:9:remove_tone	1
+../Core/Src/midi/tone.c:72:6:play_tone	3
+../Core/Src/midi/tone.c:95:6:play_midi	4
+../Core/Src/midi/tone.c:132:6:start_midi	1
+../Core/Src/midi/tone.c:139:6:pause_midi	1

@@ -1,0 +1,11 @@
+../Drivers/CMSIS/Include/core_cm4.h:1717:22:__NVIC_DisableIRQ	2
+../Core/Src/demos/project1.c:29:6:extractMetadataFromMIDI	14
+../Core/Src/demos/project1.c:79:6:displaySongInfo	1
+../Core/Src/demos/project1.c:88:6:printHelp	1
+../Core/Src/demos/project1.c:97:6:toggleCommand	7
+../Core/Src/demos/project1.c:136:6:handleBackspace	2
+../Core/Src/demos/project1.c:145:6:echoWords	9
+../Core/Src/demos/project1.c:184:6:enterLocalMode	1
+../Core/Src/demos/project1.c:190:6:exitLocalMode	1
+../Core/Src/demos/project1.c:204:6:handleS1Button	2
+../Core/Src/demos/project1.c:219:6:project1_main	12
